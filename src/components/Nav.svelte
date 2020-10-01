@@ -13,14 +13,14 @@
 	</ul>
 </nav>
 
-<style>
+<style lang="scss">
 	ul {
 		display: flex;
 		list-style: none;
-	}
 
-	li {
-		margin: 0 1rem;
-		padding: 1rem;
+		li {
+			margin: 0 1rem;
+			padding: 1rem;
+		}
 	}
 </style>
